@@ -1,1 +1,1 @@
-https://github.com/CongducPham/LowCostLoRaGw/trunk/gw_full_latest
+https://github.com/didi110296/lora_rpi_gw_firmware
